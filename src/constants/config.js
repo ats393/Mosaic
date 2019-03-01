@@ -1,1 +1,1 @@
-export const apiToken = 'pk_09a33141b9a34f599836a8a086568ddf';
+export const apiToken = '';
